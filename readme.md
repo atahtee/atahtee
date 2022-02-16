@@ -20,7 +20,7 @@
 
 <br />
 
-(https://github-readme-stats.vercel.app/api?username=atahtee&theme=radical)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=atahtee&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
