@@ -2,3 +2,4 @@
 
 <img align="left" width="47%"> ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=atahtee&show_icons=true&theme=radical)
 <img align="left" width="47%">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atahtee&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=atahtee)](https://git.io/streak-stats)
