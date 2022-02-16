@@ -20,5 +20,9 @@
 
 <br />
 
-https://github-readme-stats.vercel.app/api/?username=atahtee&count_private=true&theme=tokyonight&showicons=true)]()
+(https://github-readme-stats.vercel.app/api?username=atahtee&theme=radical)
+
+
+
+
 
