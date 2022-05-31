@@ -18,7 +18,7 @@
 # Hi there I'm atahtee
 
 <img align="left" width="47%"> ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=atahtee&show_icons=true&theme=radical)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=atahtee&theme=dark&background=#171515)](https://git.io/streak-stats)
+
 
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=3156gllykhuzmbcga2fm2rv7oe4i&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
