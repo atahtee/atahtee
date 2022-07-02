@@ -17,7 +17,7 @@
 
 # Hi there I'm atahtee
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=atahtee&show_icons=true&theme=tokyonight)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=atahtee)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
