@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **jetpack Compose**
 
-- 👨‍💻 All of my projects are available at [atahtee.vercel.app](atahtee.vercel.app)
+- 👨‍💻 All of my projects are available at [atahtee.vercel.app](atati.vercel.app)
 
 - 📝 I regularly write articles on [medium.com/@atatisam](medium.com/@atatisam)
 
