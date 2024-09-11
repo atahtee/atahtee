@@ -27,7 +27,7 @@
 
 
 [![Linkedin: Atati-Sam](https://img.shields.io/badge/-atahtee-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/atati-sam/)](https://www.linkedin.com/in/atati-sam)
-[![GitHub codingwithtashi](https://img.shields.io/github/followers/codingwithtashi?label=follow&style=social)](https://github.com/codingwithtashi)
+[![GitHub atahtee](https://img.shields.io/github/followers/atahtee?label=follow&style=social)](https://github.com/atahtee)
 <!-- [![YouTube](https://img.shields.io/youtube/channel/views/UCBLzUH7iDyY3pZWslcPJhJA?style=social)](https://youtube.com/c/codingwithtashi)    -->
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)]([https://medium.com/@atatijr])   
 
