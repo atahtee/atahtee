@@ -6,7 +6,7 @@
   <img align="left" alt="atati Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/atati-sam/">
-  <img align="left" alt="atati's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="atati's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/atahtee">
   <img align="left" alt="atahtee's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
@@ -52,7 +52,7 @@
 | **Title**                                                                                                                                                                                                              | **Description**                                                                                                                                                                                                                                                                                                                 | **Type** | **Publish Date** |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------|-------------------------|
 | [**Serverpod in Flutter**](https://atatik.vercel.app/posts/token-based-authentication-with-fastify-jwts)                                                                                   |  Exploring Serverpod, it's features and how you can intergrate it into your flutter applicatione | 📄 Article  | 🗓 Nov 18, 2023     |
-| [**Token based authentication with Fastify, JWT, and Typescript**]([https://medium.com/flutter-community/flutter-platformview-how-to-host-native-android-and-ios-view-in-flutter-79259faebd91](https://atatik.vercel.app/posts/token-based-authentication-with-fastify-jwt))                                                                                     | Learn to build secure authentication systems with Fastify, JWT, and TypeScript in this comprehensive guide. | 📄 Article  | 🗓 Nov 18, 2023     |
+| [**Token based authentication with Fastify, JWT, and Typescript**](https://atatik.vercel.app/posts/token-based-authentication-with-fastify-jwt)                                                                                     | Learn to build secure authentication systems with Fastify, JWT, and TypeScript in this comprehensive guide. | 📄 Article  | 🗓 Nov 18, 2023     |
 | [**Efficient Data Retrieval with React Query in React Applications**](https://atatik.vercel.app/posts/token-based-authentication-with-fastify-jwtss)                                                                                     |   Explore efficient data fetching in React with React Query for optimized performance and seamless user experiences | 📄 Article  | 🗓 Sep 24, 2023     |
 
 
