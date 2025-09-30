@@ -19,9 +19,13 @@
 <br/>
 
 
-- 🔭  Currently working on Flutter, Kotlin and Golang projects.
-- 🌱 I’m currently learning more about Android and System Design.
-- 💬 Ask me about Flutter/Android.
+Currently building with Flutter, Kotlin, and Go.
+
+Exploring Android internals and System Design to level up my architecture game.
+
+Ask me about Flutter, Android, or scalable backend services.
+
+Passionate about crafting smooth mobile experiences backed by robust server-side systems.
 
 
 
