@@ -18,14 +18,7 @@
 <br/>
 <br/>
 
-
-Currently building with Flutter, Kotlin, and Go.
-
-Exploring Android internals and System Design to level up my architecture game.
-
-Ask me about Flutter, Android, or scalable backend services.
-
-Passionate about crafting smooth mobile experiences backed by robust server-side systems.
+Backend logic, mobile security, system design, repeat
 
 
 
